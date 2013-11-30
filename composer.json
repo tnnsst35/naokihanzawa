@@ -1,17 +1,24 @@
 {
     "name": "tnnsst35/naokihanzawa",
+	"description": "NaokiHanzawa is a famous character in Japan.",
+	"version": "1.0.0",
     "type": "library",
     "keywords": [
         "naokihanzawa",
 		"hanzawanaoki"
     ],
     "homepage": "https://github.com/tnnsst35/naokihanzawa",
-    "authors": {
-		[
+	"time": "2013-12-03",
+    "authors": [
+		{
 			"name": "tnnsst35",
-			"email": "tnnsst35@gmail.com"
-		]
-    },
+			"email": "tnnsst35@gmail.com",
+			"homepage": "http://tnnsst35.com"
+		}
+    ],
+	"support": {
+		"email": "tnnsst35@gmail.com"
+	},
     "require": {
         "php": "5.3.*"
     },
