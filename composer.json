@@ -1,0 +1,20 @@
+{
+	"name": "tnnsst35/naokihanzawa",
+	"type": "library",
+	"keywords": [
+		"naokihanzawa",
+	],
+	"homepage": "",
+	"authors": {
+		"name": "tnnsst35",
+		"email": "tnnsst35@gmail.com"
+	},
+    "require": {
+	    "php": "5.3.*"
+	},
+	"autoload": {
+		"files": [
+			"NaokiHanzawa.php"
+		]
+	}
+}
