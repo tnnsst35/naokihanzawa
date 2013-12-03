@@ -1,4 +1,5 @@
 NaokiHanzawa is a famous character in Japan.
+
 He says the famous words, meaning twice return of "baigaeshida(倍返しだ！)".
 
 NaikiHanzawa this library has methods to do the same with the words of his.
